@@ -23,6 +23,6 @@ dist-ssr
 *.sln
 *.sw?
 
-public/resources/progress-presentation-2.pdf
+# public/resources/progress-presentation-2.pdf
 
-public/resources/progress-presentation-2.pdf
+# public/resources/progress-presentation-2.pdf
