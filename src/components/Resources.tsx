@@ -23,20 +23,20 @@ const slugify = (s: string) =>
 const Resources: React.FC = () => {
   // Place your PDFs in /public/resources and keep the filenames below in sync
   const documents: Item[] = [
-    { name: "Topic Assessment Form", icon: FileText, url: "/resources/topic-assessment-form.pdf" },
-    { name: "Project Proposal - IT21389924", icon: FileText, url: "/resources/proposal-it21389924.pdf" },
-    { name: "Project Proposal - IT21269820", icon: FileText, url: "/resources/proposal-it21269820.pdf" },
-    { name: "Project Proposal - IT21251382", icon: FileText, url: "/resources/proposal-it21251382.pdf" },
-    { name: "Project Proposal - IT21274534", icon: FileText, url: "/resources/proposal-it21274534.pdf" },
-    { name: "Final Report", icon: FileText, url: "/resources/final-report.pdf" },
-    { name: "Research Paper", icon: FileText, url: "/resources/research-paper.pdf" },
+    { name: "Topic Assessment Form", icon: FileText, url: "/neuro-ride-hub/resources/topic-assessment-form.pdf" },
+    { name: "Project Proposal - IT21389924", icon: FileText, url: "/neuro-ride-hub/resources/proposal-it21389924.pdf" },
+    { name: "Project Proposal - IT21269820", icon: FileText, url: "/neuro-ride-hub/resources/proposal-it21269820.pdf" },
+    { name: "Project Proposal - IT21251382", icon: FileText, url: "/neuro-ride-hub/resources/proposal-it21251382.pdf" },
+    { name: "Project Proposal - IT21274534", icon: FileText, url: "/neuro-ride-hub/resources/proposal-it21274534.pdf" },
+    { name: "Final Report", icon: FileText, url: "/neuro-ride-hub/resources/final-report.pdf" },
+    { name: "Research Paper", icon: FileText, url: "/neuro-ride-hub/resources/research-paper.pdf" },
   ];
   
 
   const presentations: Item[] = [
-    { name: "Proposal Presentation", icon: Presentation, url: "/resources/proposal-presentation.pdf" },
-    { name: "Progress Presentation-1", icon: Presentation, url: "/resources/progress-presentation-1.pdf" },
-    { name: "Progress Presentation-2", icon: Presentation, url: "/resources/progress-presentation-2.pdf" },
+    { name: "Proposal Presentation", icon: Presentation, url: "/neuro-ride-hub/resources/proposal-presentation.pdf" },
+    { name: "Progress Presentation-1", icon: Presentation, url: "/neuro-ride-hub/resources/progress-presentation-1.pdf" },
+    { name: "Progress Presentation-2", icon: Presentation, url: "/neuro-ride-hub/resources/progress-presentation-2.pdf" },
   ];
 
   const allItems: Item[] = [...documents, ...presentations];

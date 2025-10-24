@@ -23,7 +23,7 @@ const Team = () => {
       email: "it21269820@my.sliit.lk",
       linkedin: "https://www.linkedin.com/in/anjana-munasinghe-00123523b",
       github: "https://github.com/Anjanadinuwan",
-      image: "/team/munasinghe.jpg",
+      image: "/neuro-ride-hub/team/munasinghe.jpg",
     },
     {
       name: "Rashmika K.M.G.K",
@@ -32,7 +32,7 @@ const Team = () => {
       email: "it21389924@my.sliit.lk",
       linkedin: "https://www.linkedin.com/in/kalana-rashmika-6a4718289/",
       github: "https://github.com/kalanarashmika",
-      image: "/team/rashmika.jpg",
+      image: "/neuro-ride-hub/team/rashmika.jpg",
     },
     {
       name: "Wijesingha W.M.R",
@@ -41,7 +41,7 @@ const Team = () => {
       email: "it21251382@my.sliit.lk",
       linkedin: "https://linkedin.com",
       github: "https://github.com",
-      image: "/team/wijesingha.jpg",
+      image: "/neuro-ride-hub/team/wijesingha.jpg",
     },
     {
       name: "Moraes V.J",
@@ -50,7 +50,7 @@ const Team = () => {
       email: "it21274534@my.sliit.lk",
       linkedin: "https://linkedin.com",
       github: "https://github.com/JaanukaMoraes",
-      image: "/team/moraes.jpg",
+      image: "/neuro-ride-hub/team/moraes.jpg",
     },
     {
       name: "Mr. H. M. Samadhi Chathuranga Rathnayake",
@@ -59,14 +59,14 @@ const Team = () => {
       email: "samadhi.r@sliit.lk",
             linkedin: "https://www.linkedin.com/in/samadhi-chathuranga-rathnayake/",
 
-      image: "/team/supervicer.jpg",
+      image: "/neuro-ride-hub/team/supervicer.jpg",
     },
     {
       name: "Ms. Aparna",
       role: "Sri Lanka Institute of Information Technology",
       id: "Co-Supervisor",
       email: "aparna.j@sliit.lk",
-      image: "/team/cosuper.jpeg",
+      image: "/neuro-ride-hub/team/cosuper.jpeg",
     },
   ];
 
