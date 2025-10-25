@@ -40,7 +40,7 @@ const Team = () => {
       id: "IT21251382",
       email: "it21251382@my.sliit.lk",
       linkedin: "https://linkedin.com",
-      github: "https://github.com",
+      github: "https://github.com/Ravindu-Wijesingha",
       image: "/neuro-ride-hub/team/wijesingha.jpg",
     },
     {
